@@ -1,5 +1,5 @@
 <!-- TOP (1/5): logo left, title right -->
-| ![Fedora logo](fedora-logo.png) | **YOU'RE INVITED TO RESERVE YOUR SEAT**<br># Release Party<br># Fedora 45<br>*Freedom · Friends · Features · First* |
+| ![Fedora logo](logo.png) | **YOU'RE INVITED TO RESERVE YOUR SEAT**<br># Release Party<br># Fedora 45<br>*Freedom · Friends · Features · First* |
 |:---:|:---|
 
 ---
@@ -42,7 +42,7 @@ Students, developers, sysadmins, designers, translators, educators and curious f
 
 With warm regards,
 
-![Signature](signature.jpeg)
+![Signature](sig.jpeg)
 
 **Rasha**
 *Fedora 45 Release Party*
