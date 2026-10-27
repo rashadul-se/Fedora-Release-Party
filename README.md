@@ -41,8 +41,7 @@ Students, developers, sysadmins, designers, translators, educators and curious f
 <!-- BOTTOM (1/5): signature and name -->
 
 With warm regards,
-
-![Signature](sig.jpeg){width=30px}
+< src="sig.jpeg" alt="Signature" width="180">
 
 **Rasha**
 *Fedora 45 Release Party*
