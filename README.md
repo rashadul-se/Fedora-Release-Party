@@ -42,7 +42,7 @@ Students, developers, sysadmins, designers, translators, educators and curious f
 
 With warm regards,
 
-![Signature](sig.jpeg){width=30}
+![Signature](sig.jpeg){width=30px}
 
 **Rasha**
 *Fedora 45 Release Party*
